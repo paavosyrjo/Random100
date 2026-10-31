@@ -1,0 +1,1 @@
+const CACHE_NAME='random100-v1';self.addEventListener('fetch',e=>{});
